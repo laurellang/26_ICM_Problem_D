@@ -1,3 +1,4 @@
+```bash
 目录结构如下：
 code/
 ├── MODEL_DOCUMENTATION.md
@@ -26,3 +27,4 @@ figures/
 ├── Q3/
 ├── Q4/
 └── Q5/
+```
